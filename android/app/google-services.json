@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494213543447",
+    "project_id": "caeproject-61abe",
+    "storage_bucket": "caeproject-61abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494213543447:android:b269a2b28985a9119a0e52",
+        "android_client_info": {
+          "package_name": "com.dantech.cae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494213543447-3goi91t9kr8u5bk165qecoi7tqd8k7gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dantech.cae",
+            "certificate_hash": "d13fd30366f893ad6dc3e20a9cefc9ba27c24291"
+          }
+        },
+        {
+          "client_id": "494213543447-f2uva96tq15299s4v3bjv8obt98lifrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjAdk5gISmcpY770gDP0piHlTJW-zhv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494213543447-f2uva96tq15299s4v3bjv8obt98lifrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
